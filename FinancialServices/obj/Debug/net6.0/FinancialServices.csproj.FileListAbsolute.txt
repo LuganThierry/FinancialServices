@@ -1,0 +1,15 @@
+C:\Users\lugan\OneDrive\Área de Trabalho\Lets code\Módulo II\FinancialServices\bin\Debug\net6.0\FinancialServices.exe
+C:\Users\lugan\OneDrive\Área de Trabalho\Lets code\Módulo II\FinancialServices\bin\Debug\net6.0\FinancialServices.deps.json
+C:\Users\lugan\OneDrive\Área de Trabalho\Lets code\Módulo II\FinancialServices\bin\Debug\net6.0\FinancialServices.runtimeconfig.json
+C:\Users\lugan\OneDrive\Área de Trabalho\Lets code\Módulo II\FinancialServices\bin\Debug\net6.0\FinancialServices.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Lets code\Módulo II\FinancialServices\bin\Debug\net6.0\FinancialServices.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Lets code\Módulo II\FinancialServices\obj\Debug\net6.0\FinancialServices.csproj.AssemblyReference.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Lets code\Módulo II\FinancialServices\obj\Debug\net6.0\FinancialServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugan\OneDrive\Área de Trabalho\Lets code\Módulo II\FinancialServices\obj\Debug\net6.0\FinancialServices.AssemblyInfoInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Lets code\Módulo II\FinancialServices\obj\Debug\net6.0\FinancialServices.AssemblyInfo.cs
+C:\Users\lugan\OneDrive\Área de Trabalho\Lets code\Módulo II\FinancialServices\obj\Debug\net6.0\FinancialServices.csproj.CoreCompileInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Lets code\Módulo II\FinancialServices\obj\Debug\net6.0\FinancialServices.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Lets code\Módulo II\FinancialServices\obj\Debug\net6.0\refint\FinancialServices.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Lets code\Módulo II\FinancialServices\obj\Debug\net6.0\FinancialServices.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Lets code\Módulo II\FinancialServices\obj\Debug\net6.0\FinancialServices.genruntimeconfig.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Lets code\Módulo II\FinancialServices\obj\Debug\net6.0\ref\FinancialServices.dll
